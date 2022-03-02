@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680333604777",
+    "project_id": "panther-project-2998b",
+    "storage_bucket": "panther-project-2998b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680333604777:android:2a6fc435e333c68316b6b8",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680333604777-7t9m7d5mpsfm7hruc14t6p455pi6a6g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALpD98iQsjsfMM-e7B5a5iGTHSarb5mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680333604777-7t9m7d5mpsfm7hruc14t6p455pi6a6g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
