@@ -28,9 +28,9 @@ Here are some of screenshots of this app,
   |<img src="https://drive.google.com/uc?export=view&id=1m80FZU5IdlhBhvgxX6Oa--kRP23_kweg" width="200" height="400" alt="Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1mL6r5CQg5S3Gm_V_wQLdRIXtQ4rFWqyv" width="200" height="400" alt="1-1 Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1m0kBUxgKq8qv8AZmMROr490ioP_Ockcw" width="200" height="400" alt="Group Chat">|
-<br/><br/>  
+<br/><br/>   
   |<img src="https://drive.google.com/uc?export=view&id=1m5ev1Jitv1mXI7ux4YzSGIyNJRjB9b0J" width="200" height="400" alt="Create Group">
-  |<img src="https://drive.google.com/uc?export=view&id=1mwKfOzkVXmsKXeASKTw-zM-phJ2NGlXm" width="200" height="400" alt="Profile">|
+  |<img src="https://drive.google.com/uc?export=view&id=1mxilTAIujDndevvR3DtyNGdmP1RTe83n" width="200" height="400" alt="Profile">|
   <img src="https://drive.google.com/uc?export=view&id=1mwpV6k94QhCq5Etl7upYmELQ_nuut0YZ" width="200" height="400" alt="Create Post">|
   <img src="https://drive.google.com/uc?export=view&id=1mwKfOzkVXmsKXeASKTw-zM-phJ2NGlXm" width="200" height="400" alt="Update profile">|
   
