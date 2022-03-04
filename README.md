@@ -23,8 +23,8 @@ Here are some of screenshots of this app,
  |<img src="https://drive.google.com/uc?export=view&id=1YlTQFmvhXwj3V_TQtbswwXeBMrT8ZAG2" width="200" height="400" alt="Singup">|
   <img src="https://drive.google.com/uc?export=view&id=1YihAQG2UrRUrJeBeJBIr-ZcjZ5RQPW6U" width="200" height="400" alt="Reset password">|
   <img src="https://drive.google.com/uc?export=view&id=1YbXMVjamwiH-OHGdpfY_DGHdB8Fvl3aY" width="200" height="400" alt="Home">|
- <br/><br/>  
-  |<img src="https://drive.google.com/uc?export=view&id=1YWLYtYhKMDP1W9fTETn3lZkT6Q1l4MYT" width="200" height="400" alt="Friends">
+ <br/><br/> 
+  |<img src="https://drive.google.com/uc?export=view&id=1mMI0-UBtd5EEd8hXpbsYJh8l0sapI6mE" width="200" height="400" alt="Friends">
   |<img src="https://drive.google.com/uc?export=view&id=1YE1N9tTohDjiqxovMUp-clk2RhG0z2fx" width="200" height="400" alt="Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1YOdaWDze0pfzkzquWCVQHsYYA2oZygqk" width="200" height="400" alt="1-1 Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1YIzB9ijdZo3hh7Y8uAc4fMUrfb4wo3ki" width="200" height="400" alt="Group Chat">|
