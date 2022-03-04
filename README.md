@@ -23,14 +23,14 @@ Here are some of screenshots of this app,
  |<img src="https://drive.google.com/uc?export=view&id=1YlTQFmvhXwj3V_TQtbswwXeBMrT8ZAG2" width="200" height="400" alt="Singup">|
   <img src="https://drive.google.com/uc?export=view&id=1YihAQG2UrRUrJeBeJBIr-ZcjZ5RQPW6U" width="200" height="400" alt="Reset password">|
   <img src="https://drive.google.com/uc?export=view&id=1mlZ5qOkvS9oA6A9m_pjQKLke4E03TDmg" width="200" height="400" alt="Home">|
- <br/><br/>  
+ <br/><br/> 
   |<img src="https://drive.google.com/uc?export=1mMI0-UBtd5EEd8hXpbsYJh8l0sapI6mE" width="200" height="400" alt="Friends">
-  |<img src="https://drive.google.com/uc?export=view&id=1YE1N9tTohDjiqxovMUp-clk2RhG0z2fx" width="200" height="400" alt="Chat">|
+  |<img src="https://drive.google.com/uc?export=view&id=1m80FZU5IdlhBhvgxX6Oa--kRP23_kweg" width="200" height="400" alt="Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1mL6r5CQg5S3Gm_V_wQLdRIXtQ4rFWqyv" width="200" height="400" alt="1-1 Chat">|
   <img src="https://drive.google.com/uc?export=view&id=1m0kBUxgKq8qv8AZmMROr490ioP_Ockcw" width="200" height="400" alt="Group Chat">|
 <br/><br/>  
   |<img src="https://drive.google.com/uc?export=view&id=1m5ev1Jitv1mXI7ux4YzSGIyNJRjB9b0J" width="200" height="400" alt="Create Group">
-  |<img src="https://drive.google.com/uc?export=view&id=1m5ev1Jitv1mXI7ux4YzSGIyNJRjB9b0J" width="200" height="400" alt="Profile">|
+  |<img src="https://drive.google.com/uc?export=view&id=1mwKfOzkVXmsKXeASKTw-zM-phJ2NGlXm" width="200" height="400" alt="Profile">|
   <img src="https://drive.google.com/uc?export=view&id=1mwpV6k94QhCq5Etl7upYmELQ_nuut0YZ" width="200" height="400" alt="Create Post">|
   <img src="https://drive.google.com/uc?export=view&id=1mwKfOzkVXmsKXeASKTw-zM-phJ2NGlXm" width="200" height="400" alt="Update profile">|
   
