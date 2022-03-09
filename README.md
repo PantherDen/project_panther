@@ -13,7 +13,7 @@ It has follwoing features,
  5. Save Posts
  6. Chat with other users 1-1.
  7. Create groups.
- 8. Do group chatting.
+ core functionality group chatting.
 
 Though it's MVP right now i'm planning to expand it in future.
 
